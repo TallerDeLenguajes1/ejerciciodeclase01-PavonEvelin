@@ -15,7 +15,7 @@ namespace ManejoDeErrores
 
             for (int i = 0; i <= 5; i++)
             {
-                Console.WriteLine(list[i].ToString());
+                Console.WriteLine(list[i]);
             }
             Console.ReadLine();
         }
